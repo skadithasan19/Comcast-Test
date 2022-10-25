@@ -11,6 +11,7 @@
 		3011A4E92907933000D5FAEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3011A4E82907933000D5FAEE /* ContentView.swift */; };
 		3011A4EB2907933200D5FAEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3011A4EA2907933200D5FAEE /* Assets.xcassets */; };
 		3011A4EE2907933200D5FAEE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3011A4ED2907933200D5FAEE /* Preview Assets.xcassets */; };
+		3011A4F52907934500D5FAEE /* AVPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3011A4F42907934500D5FAEE /* AVPlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3011A4E82907933000D5FAEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3011A4EA2907933200D5FAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3011A4ED2907933200D5FAEE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3011A4F42907934500D5FAEE /* AVPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3011A4E62907933000D5FAEE /* Comcast_TestApp.swift */,
 				3011A4E82907933000D5FAEE /* ContentView.swift */,
+				3011A4F42907934500D5FAEE /* AVPlayerView.swift */,
 				3011A4EA2907933200D5FAEE /* Assets.xcassets */,
 				3011A4EC2907933200D5FAEE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3011A4F52907934500D5FAEE /* AVPlayerView.swift in Sources */,
 				3011A4E92907933000D5FAEE /* ContentView.swift in Sources */,
 				3011A4E72907933000D5FAEE /* Comcast_TestApp.swift in Sources */,
 			);
